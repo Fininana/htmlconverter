@@ -17,7 +17,7 @@ A utility script that combines HTML, CSS, and JS files from a directory into a s
 
 2. Navigate to the directory:
    ```bash
-   cd html-css-js-combiner
+   cd htmlconverter
    ```
 
 ## Usage
